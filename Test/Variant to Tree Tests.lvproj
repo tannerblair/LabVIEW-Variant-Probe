@@ -32,6 +32,7 @@
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 			</Item>
+			<Item Name="get unit string.vi" Type="VI" URL="../../Source/variant to tree resources/get unit string.vi"/>
 			<Item Name="variant to tree helper.vi" Type="VI" URL="../../Source/variant to tree resources/variant to tree helper.vi"/>
 			<Item Name="View Variant in Tree.vi" Type="VI" URL="../../Source/variant to tree resources/View Variant in Tree.vi"/>
 		</Item>

@@ -14,6 +14,7 @@
 		<Item Name="glyphs" Type="Folder" URL="../variant to tree resources/glyphs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="get unit string.vi" Type="VI" URL="../variant to tree resources/get unit string.vi"/>
 		<Item Name="variant to tree helper.vi" Type="VI" URL="../variant to tree resources/variant to tree helper.vi"/>
 		<Item Name="Variant to Tree.vi" Type="VI" URL="../Variant to Tree.vi"/>
 		<Item Name="View Variant in Tree.vi" Type="VI" URL="../variant to tree resources/View Variant in Tree.vi"/>
