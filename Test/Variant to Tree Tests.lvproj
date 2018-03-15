@@ -11,13 +11,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="glyphs" Type="Folder" URL="../variant to tree resources/glyphs">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="get unit string.vi" Type="VI" URL="../variant to tree resources/get unit string.vi"/>
-		<Item Name="variant to tree helper.vi" Type="VI" URL="../variant to tree resources/variant to tree helper.vi"/>
-		<Item Name="Variant to Tree.vi" Type="VI" URL="../Variant to Tree.vi"/>
-		<Item Name="View Variant in Tree.vi" Type="VI" URL="../variant to tree resources/View Variant in Tree.vi"/>
+		<Item Name="LabVIEW Variant Probe.lvproj" Type="Document" URL="../../Source/LabVIEW Variant Probe.lvproj"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -37,6 +32,9 @@
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 			</Item>
+			<Item Name="get unit string.vi" Type="VI" URL="../../Source/variant to tree resources/get unit string.vi"/>
+			<Item Name="variant to tree helper.vi" Type="VI" URL="../../Source/variant to tree resources/variant to tree helper.vi"/>
+			<Item Name="View Variant in Tree.vi" Type="VI" URL="../../Source/variant to tree resources/View Variant in Tree.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
