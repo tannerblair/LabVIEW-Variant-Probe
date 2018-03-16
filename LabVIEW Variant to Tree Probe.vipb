@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-03-14 15:23:22" Modified_Date="2018-03-15 15:50:21" Creator="tb" Comments="" ID="f5bd00f0f1542001a56751c5960fc46b">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-03-14 15:23:22" Modified_Date="2018-03-16 11:22:20" Creator="tb" Comments="" ID="7cb3791b3c00bcb8b9981fbcc511695a">
   <Library_General_Settings>
     <Package_File_Name>ni_probe_LabVIEW_Variant_to_Tree</Package_File_Name>
-    <Library_Version>1.2.0.5</Library_Version>
+    <Library_Version>1.3.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
